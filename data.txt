@@ -1,0 +1,5 @@
+daniyalali07   DOCKERHUB
+daniyalali72   github
+dckr_pat_byUs_ELHi0U2Aq4fnyLLCsjAScU   dockerhub 
+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   secret key aws
+
